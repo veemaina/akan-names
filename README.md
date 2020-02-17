@@ -1,6 +1,6 @@
 ## Author 
 
-Violet Maina
+Violet Waithera Maina
 
 ## Project Name 
 Akan Names
