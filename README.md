@@ -7,7 +7,7 @@ Akan Names
 
 ## Description
 
-This projects is all about  the naming system of the Ghanian people and it calculates the birthday and gives the output as the akan name and the day.
+This projects is all about  the naming system of the Ghanian people and it calculates the birthday and gives the output as the akan name and the day which a person was born.
 
 ## setup/installtion Requirement
 
