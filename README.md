@@ -15,7 +15,7 @@ This projects is all about  the naming system of the Ghanian people and it calcu
 Open terminal
 git clone https:https://github.com/veemaina/akan-names.github.git
 cd portfolio
-use code or atom .to open the clone repository on code or VScode respectively
+use code or atom .to open the clone repository on code or VScode respectively.
 
 
 ## LIVELINK
