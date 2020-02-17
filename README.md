@@ -13,7 +13,7 @@ This projects is all about  the naming system of the Ghanian people and it calcu
 ## setup/installtion Requirement
 
 Open terminal
-git clone https:
+git clone https:https://github.com/veemaina/akan-names.github.git
 cd portfolio
 use code or atom .to open the clone repository on code or VScode respectively
 
