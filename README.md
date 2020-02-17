@@ -28,7 +28,7 @@ use code or atom .to open the clone repository on code or VScode respectively.
 * JAVASCRIPT, 
 
 ## Behaviour Driven Development(BDD)
-first key in the century,year,month then the date of birth as input then your akan name appears displays as output
+first key in the century,year,month then the date of birth as input then your akan name appears displays as output.
 
 ## licence
 
